@@ -23,7 +23,7 @@ opacity: 1;
 section .h1{
     color: #021027;
 opacity: 1;
-    font: normal normal bold 54px/65px Futura !important;
+    font: normal normal bold 50px/65px Futura !important;
 letter-spacing: 0px;
 }
 section .h3{
@@ -61,15 +61,14 @@ background-color:#021027;
 color: white !important;
 }
 .img20{
-    width: 3219px !important;
+    width: 310px !important;
 height: 319px !important;
-padding-left: 214px;
+
 
 }
 .img21{
-    width: 219px !important;
+    width: 319px !important;
 height: 319px !important;
-padding-left: -21px;
-padding-top: 35px;
+
 
 }
