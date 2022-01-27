@@ -42,3 +42,34 @@ box-shadow: 0px 3px 6px #00000029;
 border-radius: 33px !important;
 opacity: 1;
 }
+section .p2{
+    color: #2078FC;
+    font-weight: 600;
+}
+.btn3{
+    width: 160px !important;
+height: 45px;
+color: #1A75FC;
+font-weight: 600;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 2px solid #1A75FC !important;
+border-radius: 33px !important;
+opacity: 1;
+}
+footer{
+background-color:#021027;
+color: white !important;
+}
+.img20{
+    width: 3219px !important;
+height: 319px !important;
+padding-left: 214px;
+
+}
+.img21{
+    width: 219px !important;
+height: 319px !important;
+padding-left: -21px;
+padding-top: 35px;
+
+}
